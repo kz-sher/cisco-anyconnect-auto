@@ -11,7 +11,9 @@ Some requirements are needed in order to make it work:
 - You should have already installed Cisco Annyconnect Secure Mobility Client application.
 - You should have entered the VPN host you want to connect during the last use of Cisco Annyconnect Secure Mobility Client application.
 
+# Installation
 
+Download the `.dmg` file from [this](https://drive.google.com/file/d/1YPQ48BgK3-Kd0r7JSRoZWWEbu6POZjBc/view?usp=sharing).
 
 # Setup
 
