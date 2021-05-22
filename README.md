@@ -13,7 +13,7 @@ Some requirements are needed in order to make it work:
 
 # Installation
 
-Download the `.dmg` file from [this](https://drive.google.com/file/d/1YPQ48BgK3-Kd0r7JSRoZWWEbu6POZjBc/view?usp=sharing).
+Download the `.dmg` file from [this](https://github.com/kz-sher/cisco-anyconnect-auto/releases).
 
 # Setup
 
